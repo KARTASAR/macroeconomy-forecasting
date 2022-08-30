@@ -45,26 +45,3 @@
 Стек используемых технологий: библиотеки градиентного бустинга Catboost, XGBoost, библиотека для работы с временными рядам Sktime, а также библиотеки для анализа данных: pandas, matplotlib.
 
 Уникальность нашего решения заключается в том, что мы обучили модель, которая способна определять тип временного ряда и подбирать модель, которая лучше всего подходит для предсказания будущей стоимости на данном временном ряду. Предсказываются изменения временного ряда, а не будущего состояния.
-<svg width="8272" height="1549" viewBox="0 0 8272 1549" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g opacity="0.5" filter="url(#filter0_i_6_2238)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M8272 1032.67L7927.33 946.611C7582.67 860.556 6893.33 688.444 6204 631.074C5514.67 573.704 4825.33 631.074 4136 659.759C3446.67 688.444 2757.33 688.444 2068 573.704C1378.67 458.963 689.333 229.481 344.667 114.741L-0.00012207 0V1549H344.667C689.333 1549 1378.67 1549 2068 1549C2757.33 1549 3446.67 1549 4136 1549C4825.33 1549 5514.67 1549 6204 1549C6893.33 1549 7582.67 1549 7927.33 1549H8272V1032.67Z" fill="url(#paint0_linear_6_2238)"/>
-</g>
-<defs>
-<filter id="filter0_i_6_2238" x="0" y="0" width="8272" height="1553" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="4"/>
-<feGaussianBlur stdDeviation="2"/>
-<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="shape" result="effect1_innerShadow_6_2238"/>
-</filter>
-<linearGradient id="paint0_linear_6_2238" x1="10943.9" y1="532.198" x2="10655.3" y2="2775.46" gradientUnits="userSpaceOnUse">
-<stop offset="0.390625" stop-color="#00FF29"/>
-<stop offset="1" stop-color="#005321"/>
-<stop offset="1" stop-color="#13ED6A"/>
-</linearGradient>
-</defs>
-</svg>
-
