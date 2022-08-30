@@ -1,7 +1,8 @@
 # Прогнозирование макроэкономических и финансовых переменных
 > Решение команды Chill Garage на хакатоне Цифрового Прорыва, Северо-Западный федеральный округ,\
 > [кейса](https://hacks-ai.ru/hackathons/757124) "Алгоритм на страже экономической стабильности".
-> Разрабатывали: [Дмитрий Куценко](https://github.com/kdimon15), [Никита Романов](https://github.com/KARTASAR), [Давид Джалаев](https://github.com/DavidRomanovizc).
+> Состав команды: [Дмитрий Куценко](https://github.com/kdimon15), [Никита Романов](https://github.com/KARTASAR), [Давид Джалаев](https://github.com/DavidRomanovizc).
+
 
 <br>
 
